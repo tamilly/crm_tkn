@@ -3,5 +3,4 @@
 __pycache__
 ambvirtual
 db.qlite3
-/static
 .DS_Store
